@@ -48,6 +48,7 @@ public class OpenMensaAPITests {
     @Test
     public void testGetMeals() throws IOException {
         // TODO prepare call
+        String date = ""
 
         // TODO execute the call synchronously
 
